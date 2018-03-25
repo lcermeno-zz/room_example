@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Room</string>
+    <string name="btn_add">Agregar</string>
+    <string name="delete_developer">Eliminar Developer</string>
+    <string name="lbl_add_developer">Escribe el nombre del Dev</string>
+    <string name="bookmark_developer">Marcar Favorito</string>
+    <string name="delete_bookmark_developer">Quitar de Favoritos</string>
+</resources>
